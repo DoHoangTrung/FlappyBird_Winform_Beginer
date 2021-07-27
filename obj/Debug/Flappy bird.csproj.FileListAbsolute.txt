@@ -1,0 +1,11 @@
+C:\Users\Trung Do Hoang\Desktop\flappy bird\bin\Debug\Flappy bird.exe.config
+C:\Users\Trung Do Hoang\Desktop\flappy bird\bin\Debug\Flappy bird.exe
+C:\Users\Trung Do Hoang\Desktop\flappy bird\bin\Debug\Flappy bird.pdb
+C:\Users\Trung Do Hoang\Desktop\flappy bird\obj\Debug\Flappy bird.csprojAssemblyReference.cache
+C:\Users\Trung Do Hoang\Desktop\flappy bird\obj\Debug\Flappy_bird.Properties.Resources.resources
+C:\Users\Trung Do Hoang\Desktop\flappy bird\obj\Debug\Flappy bird.csproj.GenerateResource.cache
+C:\Users\Trung Do Hoang\Desktop\flappy bird\obj\Debug\Flappy bird.csproj.CoreCompileInputs.cache
+C:\Users\Trung Do Hoang\Desktop\flappy bird\obj\Debug\Flappy bird.exe
+C:\Users\Trung Do Hoang\Desktop\flappy bird\obj\Debug\Flappy bird.pdb
+C:\Users\Trung Do Hoang\Desktop\flappy bird\obj\Debug\Flappy_bird.FormTest.resources
+C:\Users\Trung Do Hoang\Desktop\flappy bird\obj\Debug\Flappy_bird.FormGame.resources
